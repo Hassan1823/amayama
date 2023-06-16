@@ -1,6 +1,6 @@
-"use client";
-
+'use client'
 import { PhotoIcon, UserCircleIcon } from "@heroicons/react/24/solid";
+
 
 export default function NewInquiry() {
   return (
