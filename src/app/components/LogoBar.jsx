@@ -43,31 +43,31 @@ const LogoBar = () => {
                     <h1 className="text-[20px] my-4">Genuine Parts Catalogues</h1>
                     <ul className="text-blue-600 grid grid-rows-5 grid-flow-col">
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Toyota</Link>
+                        <Link href="/toyota">Toyota</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Lexus</Link>
+                        <Link href="/lexus">Lexus</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Mitsubishi</Link>
+                        <Link href="/mitsubishi">Mitsubishi</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Honda</Link>
+                        <Link href="/honda">Honda</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Mazda</Link>
+                        <Link href="/mazda">Mazda</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Nissan</Link>
+                        <Link href="/nissan">Nissan</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Infiniti</Link>
+                        <Link href="/infiniti">Infiniti</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Subaru</Link>
+                        <Link href="/subaru">Subaru</Link>
                       </li>
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Suzuki</Link>
+                        <Link href="/suzuki">Suzuki</Link>
                       </li>
                     </ul>
                   </div>
@@ -76,7 +76,7 @@ const LogoBar = () => {
                     <h1 className="text-[20px] my-4">Car Accessories</h1>
                     <ul className="text-blue-600 grid grid-rows-5 grid-flow-col">
                       <li className="hover:text-[#C61D36] p-2 m-2">
-                        <Link href="/">Car Accessories</Link>
+                        <Link href="/accessories">Car Accessories</Link>
                       </li>
                     </ul>
                   </div>
