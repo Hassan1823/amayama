@@ -120,7 +120,7 @@ const Chassis = () => {
                   return (
                     <Link
                       key={index}
-                      href={`/${data}`}
+                      href={`/best-selling-parts`}
                       className="hover:text-red-600"
                     >
                       {data}

@@ -286,7 +286,7 @@ const GenuineParts = () => {
   return (
     <>
       {/* main container */}
-      <div className="px-20">
+      <div className="lg:px-32 md:px-14 px-4">
         <div className="w-full h-auto flex flex-col gap-4 border-y-2 my-4 py-4">
           {/* heading */}
           <div className="w-auto h-auto flex flex-col lg:flex-row justify-start lg:items-center items-start gap-4">
